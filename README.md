@@ -1,3 +1,6 @@
+Chicken of the VNC Puppet Module for Boxen
+
+This module installs Chicken of the VNC.
 
 ## Usage
 
